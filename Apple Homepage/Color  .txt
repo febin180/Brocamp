@@ -1,0 +1,2 @@
+dadada : header logo nd font color
+434344 : header color
